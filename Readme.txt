@@ -1,0 +1,1 @@
+This is Semantic segmentation project on TGS_Salt dataset using U-Net Architecture in Tensorfow
